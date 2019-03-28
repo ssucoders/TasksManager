@@ -1,0 +1,16 @@
+https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
+https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
+
+npm init
+
+npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-react
+
+
+npm install --save-dev webpack@4.19.1 webpack-cli@3.1.1 webpack-dev-server@3.1.8 style-loader@0.23.0 css-loader@1.0.0 babel-loader@8.0.2
+
+npm install --save-dev webpack webpack-cli webpack-dev-server style-loader css-loader babel-loader
+
+
+npm i -s react
+npmm i -s react-dom
+
