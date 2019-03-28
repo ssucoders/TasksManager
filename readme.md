@@ -1,5 +1,2 @@
-# reactJS101
-Learning React JS 101
-also learing to use git hub :)
-
-my readme file ;)
+# reactJS Tasks Manager
+A simple tasks manager app using React JS
