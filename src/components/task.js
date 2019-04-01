@@ -6,7 +6,11 @@ class Task extends Component{
     }
     render(){
         return(
-            <div>Ubaid</div>
+            <div  className = {this.props.item.done?"task-done":""}>
+                <input type="checkbox" checked={this.props.item.done} />
+                {this.props.item.title}
+                <button>X</button>
+            </div>
         )
     }
 }
