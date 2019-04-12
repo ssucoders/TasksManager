@@ -1,6 +1,12 @@
 .App {
-    margin: 1rem;
+    margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
   }
-
+#root{background: rgb(161, 203, 243);width:330px;padding: 1px;}
 .task-done {text-decoration: line-through; }
+input{padding: 5px;}
+h1{color:blueviolet;}
+.add{color:white;background:deeppink;border:1px solid;border-radius:20px;margin:10px;font-size: 20px;}
+.del{color:white;background: red;padding: 3px;font-size: 10px;border:1px solid;float: right;}
+p{font-weight: bold}
+.task small{ float: right;}
